@@ -1,2 +1,2 @@
-# Python
-python学习
+# Java基础学习
+java学习
